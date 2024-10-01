@@ -19,8 +19,9 @@ h6 {
 }
 
 h1 {
-  font-size: 96px;
+  font-size: 70px;
   line-height: 30px;
+  text-align: center;
 }
 
 .work-page-h1 {
