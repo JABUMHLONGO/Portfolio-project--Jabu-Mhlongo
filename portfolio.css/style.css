@@ -70,7 +70,11 @@ p {
 } 
 
 .about-section {
-  padding: 160px 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+
 }
 
 
@@ -111,26 +115,9 @@ h2 {
     padding: 0;
     text-align: center;
   }
-  .row {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+
+  h1 {
+    font-size: 48px;
   }
 }
 
-.row {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-.col-md-6 {
-  flex-grow: 1;
-  padding: 20px;
-}
-
-img {
-  width: 100%;
-  height: auto;
-}
