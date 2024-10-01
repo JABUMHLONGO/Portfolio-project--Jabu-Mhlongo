@@ -104,24 +104,12 @@ h2 {
   padding: 120px 60px 0px;
 }
 
-.jabu-image {
-  max-width: 100%;
-  height: auto;
-  width: 150px;
-}
 
 @media (max-width: 900px) {
   .project-description {
     font-size: 50px;
     padding: 0;
     text-align: center;
-  }
-
-
-  .col-md-6 {
-    flex: 1;
-    max-width: 100%;
-    padding: 20px;
   }
 }
 
