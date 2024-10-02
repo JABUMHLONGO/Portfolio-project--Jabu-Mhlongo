@@ -83,6 +83,11 @@ p {
 
 }
 
+.contact-content {
+  margin-left: 550px;
+  font-size: 18px;
+}
+
 
 .content {
   display: flex;
