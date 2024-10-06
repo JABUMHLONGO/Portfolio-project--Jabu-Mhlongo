@@ -167,6 +167,11 @@ h2 {
   justify-content: space-evenly;
 }
 
+.about-jabu {
+  padding-top: 100px;
+  font-style: oblique;
+}
+
 footer {
   margin-top: 50px;
   
